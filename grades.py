@@ -1,0 +1,5 @@
+brian=("brian",97,42,36)
+jake=("jake",1,1,1)
+blake=("blake",56,76,78,)
+Class=(brian,jake,blake)
+print(Class[2])
